@@ -1,4 +1,4 @@
-# Visitas y conversiones · Bootcamp Data Analyst
+# Visitas y conversiones · Bootcamp Data Analyst · 2026
 
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
 
@@ -40,3 +40,4 @@ Añade aquí tu nombre mediante una rama y una pull request.
 ## KPI: tasa de conversión
 Fórmula: tasa de conversión = visitas con conversión / total de visitas × 100
 
+## Test string
