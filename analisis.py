@@ -21,7 +21,7 @@ for registro in registros:
 
 tasa = conversiones / visitas * 100 if visitas else 0
 
-print("=== Informe de visitas ===")
+print("Informe de visitas")
 print(f"Visitas: {visitas}")
 print(f"Conversiones: {conversiones}")
 print(f"Tasa de conversion: {tasa:.1f}%")
