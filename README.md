@@ -38,6 +38,7 @@ Añade aquí tu nombre mediante una rama y una pull request.
 3. ¿Qué archivos han cambiado en la pull request?
 
 ## KPI: tasa de conversión
+Tenemos que calcular la tasa de conversión de la siguiente manera:
 Fórmula: tasa de conversión = visitas con conversión / total de visitas × 100
 
 ## Test string
